@@ -1,0 +1,8 @@
+**/node_modules
+**/.env
+data
+frontend/build
+backend/db
+backend/uploads
+backend/logs
+.git
